@@ -1,0 +1,13 @@
+/Users/yusufegeeren/whatsapp_web_automation/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+DEBUG sample phones: ['+905451542003']
+DEBUG sample to:     ['+905451542003']
+DEBUG empty_to_count: 0
+DEBUG -> rows=1  last_index=-1  start_index=0  limit=1  interval=0s  ignore_window=True
+Başladı: pencere 09:00–20:00, 15 dk aralık, günlük limit: 1
+[0] +905451542003 → gönderiliyor (önce PDF, sonra mesaj)...
+DEBUG FAST: locating file input directly…
+DEBUG FAST: sending /Users/yusufegeeren/Desktop/brosur.pdf
+DEBUG FAST: send button not found
+[0] ✗ PDF eklenemedi / gönderilemedi
+Bitti.

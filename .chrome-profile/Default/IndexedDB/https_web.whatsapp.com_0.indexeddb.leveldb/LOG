@@ -1,0 +1,32 @@
+2025/10/06-22:55:08.211 14acd2 Reusing MANIFEST /Users/yusufegeeren/whatsapp_web_automation/.chrome-profile/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/06-22:55:08.211 14acd2 Recovering log #1157
+2025/10/06-22:55:08.222 14acd2 Reusing old log /Users/yusufegeeren/whatsapp_web_automation/.chrome-profile/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001157.log 
+2025/10/06-22:55:08.523 14ace4 Level-0 table #1166: started
+2025/10/06-22:55:08.536 14ace4 Level-0 table #1166: 785803 bytes OK
+2025/10/06-22:55:08.538 14ace4 Delete type=0 #1157
+2025/10/06-22:55:08.538 14acd2 Manual compaction at level-0 from ' '\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' (\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/06-22:55:08.539 14acd2 Level-0 table #1168: started
+2025/10/06-22:55:08.540 14acd2 Level-0 table #1168: 500 bytes OK
+2025/10/06-22:55:08.541 14acd2 Delete type=0 #1165
+2025/10/06-22:55:08.541 14acd2 Manual compaction at level-0 from ' (\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' )\x01\x00\x00\x00' @ 0 : 0; will stop at ' (\x01\x00\x00\x05' @ 1737188 : 0
+2025/10/06-22:55:08.541 14acd2 Compacting 1@0 + 1@1 files
+2025/10/06-22:55:08.549 14acd2 Generated table #1169@0: 16155 keys, 361138 bytes
+2025/10/06-22:55:08.549 14acd2 Compacted 1@0 + 1@1 files => 361138 bytes
+2025/10/06-22:55:08.550 14acd2 compacted to: files[ 0 1 5 0 0 0 0 ]
+2025/10/06-22:55:08.550 14acd2 Delete type=2 #1168
+2025/10/06-22:55:08.550 14acd2 Manual compaction at level-0 from ' (\x01\x00\x00\x05' @ 1737188 : 0 .. ' )\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/06-22:55:09.172 14acd4 Compacting 1@1 + 5@2 files
+2025/10/06-22:55:09.215 14acd4 Generated table #1170@1: 90155 keys, 2241382 bytes
+2025/10/06-22:55:09.238 14acd4 Generated table #1171@1: 30145 keys, 2184702 bytes
+2025/10/06-22:55:09.265 14acd4 Generated table #1172@1: 35182 keys, 2209304 bytes
+2025/10/06-22:55:09.296 14acd4 Generated table #1173@1: 59969 keys, 2222105 bytes
+2025/10/06-22:55:09.310 14acd4 Generated table #1174@1: 20687 keys, 845067 bytes
+2025/10/06-22:55:09.310 14acd4 Compacted 1@1 + 5@2 files => 9702560 bytes
+2025/10/06-22:55:09.311 14acd4 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/10/06-22:55:09.312 14acd4 Delete type=2 #1169
+2025/10/06-22:55:09.312 14acd4 Delete type=2 #1163
+2025/10/06-22:55:09.312 14acd4 Delete type=2 #1162
+2025/10/06-22:55:09.312 14acd4 Delete type=2 #1160
+2025/10/06-22:55:09.312 14acd4 Delete type=2 #1161
+2025/10/06-22:55:09.312 14acd4 Delete type=2 #1159
+2025/10/06-22:55:09.312 14acd4 Delete type=2 #1166
